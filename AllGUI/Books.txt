@@ -1,0 +1,15 @@
+hardcopy,A101 Memories, Simay Ardic, Classic,22 November 2000,150
+hardcopy,Sponge Bob Fights Darth Vader,Sera Altuner,Fantasy,12 October 2019,200
+hardcopy,Volleyball Rules: How Should We Play It?,Dilara Gungor,Guide,4 March 2001,50
+electronic,Who Killed Me?,Mystery,Ece Temizkalb,1 March 2005
+electronic,Looking For Ms.Cat,Mystery,Ece Temizkalb,5 January 1999
+hardcopy,Living In The Moment,Berke Sayıcıoglu,Action&Adventure,12 June 1997,450
+hardcopy,Blonde Women In Paris,Anastasya Duygu Kilic,Romance,27 February 2006,100
+electronic,How Much Does It Worth,Action&Adventure,Sera Altuner,22 May 2013
+hardcopy,Loving Money Causes Problem,Danielo Santarelli,Mystrey,16 April 2018,200
+hardcopy,Bliss Montage,Ling Ma,Story,13 September 2020,74
+electronic,Fen, Bog & Swamp,Mystery,Annie Proulx,27 September 2021
+electronic,Dinners with Ruth: A Memoir on the Power of Friendships,Romance,Nina Totenberg,13 September 2017
+hardcopy,To Kill a Mockingbird,Harper Lee,Crime,16 August 2012,35
+hardcopy,Harry Potter and the Goblet of Fire,JK Rowling,Fantasy,3 October 2000,30
+hardcopy,Messi Wins,Ece Temizkalb,Short Story,18 December 2022,150

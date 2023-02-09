@@ -1,0 +1,5 @@
+Gokhan Mert Gunes,23,002-045,gokhan@mail.com
+Selen Koroglu,59,111-222,selen@mail.com
+Irem Gokce Donmez,33,345-232,irem@mail.com
+Berra Turgut,78,875-432,berra@mail.com
+Simay Ardic,80,892-231,simay@mail.com
